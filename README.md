@@ -1,4 +1,4 @@
-# Amazon Prime Power BI Dashboard
+# E-Commerce sales Power BI Dashboard
 ![Dashboard Screenshot](https://github.com/1505-Riya/ECommerceSales/blob/master/ecom.png)
 
 
